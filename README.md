@@ -11,7 +11,7 @@
 
 [🎯 Overview](#-overview) •
 [🌟 Features](#-features) •
-[🛠️ Tech Stack](#-tech-stack) •
+[💻 Tech Stack](#-tech-stack) •
 [📦 Installation](#-installation) •
 [🚀 Getting Started](#-getting-started) •
 [📖 Documentation](#-documentation) •
@@ -71,7 +71,7 @@ The  Inventory Control System is a comprehensive solution designed to streamline
 </table>
 
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Core Framework & Security
 ```mermaid
