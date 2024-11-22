@@ -10,7 +10,7 @@
 > *Your Complete Solution for Smart Inventory Management*
 
 [🎯 Overview](#-overview) •
-[🔄 Operational Workflow](#-operational-workflow) •
+[🔄 Workflow](#-operational-workflow) •
 [🌟 Features](#-features) •
 [💻 Tech Stack](#-tech-stack) •
 [📦 Installation](#-installation) •
