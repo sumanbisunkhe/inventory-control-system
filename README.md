@@ -22,8 +22,14 @@
 
 ## 🎯 Overview
 
-The Inventory Control System revolutionizes inventory management through intelligent real-time tracking of products, suppliers, and orders. Discover how this powerful system transforms your business operations:
 
+The Inventory Control System is a dependable and efficient solution designed to simplify inventory management. It offers a range of features, including real-time tracking of products and orders, ensuring seamless and effective inventory operations.
+
+The process begins with the **OWNER** registering their inventory in the system. Upon successful registration, the owner receives a welcome email confirming their registration. Once registered, the owner can add **suppliers** to the system.
+Next, **products** are added to the inventory and linked to their respective suppliers. If the quantity of any product falls to or below the minimum stock level, the system automatically notifies the owner via email about the issue.
+To replenish stock, the owner can place an order with the relevant supplier directly through the system. Once an order request is made, the supplier is notified via email and fulfills the request according to the owner’s requirements.
+
+This streamlined process ensures that inventory is managed efficiently, minimizing stockouts and facilitating smooth operations for the owner. The Inventory Control System is a comprehensive tool for effective inventory management.
 
 ## 🔄 Operational Workflow
 - [Owner Registration](#-1-registration)
