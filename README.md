@@ -7,23 +7,72 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![JWT](https://img.shields.io/badge/JWT-Security-red.svg)](https://jwt.io/)
 
-> A robust Spring Boot application for smooth inventory management with comprehensive security, real-time tracking, and seamless integration capabilities.
+> *Your Complete Solution for Smart Inventory Management*
 
 [🎯 Overview](#-overview) •
+[🔄 Operational Workflow](#-operational-workflow) •
 [🌟 Features](#-features) •
 [💻 Tech Stack](#-tech-stack) •
 [📦 Installation](#-installation) •
-[🚀 Getting Started](#-getting-started) •
 [📖 Documentation](#-documentation) •
-[👨‍💻 Contributing](#-contributing)
+[👨‍💻 Author](#-author)
 
 </div>
 
----
 
 ## 🎯 Overview
 
-The  Inventory Control System is a comprehensive solution designed to streamline inventory management operations. Built with Spring Boot, it offers enterprise-grade security, real-time tracking, and seamless integration capabilities for various businesses.
+The Inventory Control System revolutionizes inventory management through intelligent real-time tracking of products, suppliers, and orders. Discover how this powerful system transforms your business operations:
+
+
+## 🔄 Operational Workflow
+- [Owner Registration](#-1-registration)
+- [Supplier Management](#-2-supplier-management)
+- [CSV Operations](#-3-csv-operations)
+- [Product Management](#-4-product-management)
+- [Smart Notifications](#-5-smart-notifications)
+- [Order Processing](#-6-order-processing)
+
+### 📝️ 1. Registration
+- 🖊 **Business Owner Registration**
+  - Quick and easy system registration
+  - Welcome email confirmation
+  - Secure account setup
+
+### 🤝 2. Supplier Management
+- 👥 **Multi-Supplier Integration**
+  - Seamless supplier onboarding
+  - Comprehensive contact database
+  - Automated supplier communications
+  - Smart product-supplier mapping
+
+### 📊 3. CSV Operations
+- 📥 **Data Import/Export**
+  - Bulk product upload
+  - Supplier data import
+  - Inventory export
+  - Template-based processing
+
+### 📦 4. Product Management
+- 🏷️ **Inventory Control**
+  - Intuitive product addition
+  - Supplier linkage system
+  - Real-time quantity tracking
+  - Supplier-based categorization
+
+### ⚡ 5. Smart Notifications
+- 🔔 **Automated Alerts**
+  - Continuous stock monitoring
+  - Low-stock threshold alerts
+  - Instant email notifications
+  - Supplier update system
+
+### 📋 6. Order Processing
+- 🔄 **Streamlined Ordering**
+  - One-click order placement
+  - Intelligent supplier routing
+  - Automated order notifications
+  - Customized delivery management
 
 ## 🌟 Features
 
@@ -97,7 +146,6 @@ graph LR
 - MySQL
 
 ### 🚀 Getting Started
-
 1. **Clone Repository**
 ```bash
 git clone https://github.com/sumanbisunkhe/inventory-control-system.git
@@ -315,16 +363,15 @@ inventory-management-system/
 
 ## 📖 Documentation
 
-<div align="center">
 
 ### 📚 Available Documentation Formats
 
-| Format                                                                                             | Description                                         | Link                                                                                                                     |
-|----------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| <img src="src/main/resources/docs/pdf.png" alt="PDF" align="center"  style="height:30px;">         | Comprehensive system architecture and API reference | <a href="src/main/resources/docs/Inventory%20Control%20System%20API%20Documentation.pdf" target="_blank">View in PDF</a> |
-| <img src="src/main/resources/docs/postman.png" alt="Postman" align="center"  style="height:24px;"> | Interactive API documentation with examples         | <a href="https://documenter.getpostman.com/view/32179535/2sAYBSkYmW#intro" target="_blank">View in Postman</a>           |
+| Format                                          | Description                                         | Link                                                                                |
+|-------------------------------------------------|-----------------------------------------------------|-------------------------------------------------------------------------------------|
+| ![PDF](src/main/resources/docs/pdf.png)         | Comprehensive system architecture and API reference | [View PDF](src/main/resources/docs/inventory-control-system-api-documentation.pdf)  |
+| ![Postman](src/main/resources/docs/postman.png) | Interactive API documentation with examples         | [View in Postman](https://documenter.getpostman.com/view/32179535/2sAYBSkYmW#intro) |
 
-</div>
+
 
 ## 🤝 Contributing
 
