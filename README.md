@@ -70,6 +70,7 @@ The  Inventory Control System is a comprehensive solution designed to streamline
 </tr>
 </table>
 
+
 ## 🛠️ Tech Stack
 
 ### Core Framework & Security
@@ -318,10 +319,10 @@ inventory-management-system/
 
 ### 📚 Available Documentation Formats
 
-| Format                                                                                                | Description                                         | Link                                                                                          |
-|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| <img src="src/main/resources/docs/pdf.png" alt="PDF" align="center"  style="  height:30px;">          | Comprehensive system architecture and API reference | [View in PDF](src/main/resources/docs/Inventory%20Control%20System%20API%20Documentation.pdf) |
-| <img src="src/main/resources/docs/postman.png" alt="Postman" align="center"  style="  height: 24px;"> | Interactive API documentation with examples         | [View in Postman](https://documenter.getpostman.com/view/32179535/2sAYBSkYmW#intro)           |
+| Format                                                                                             | Description                                         | Link                                                                                                                     |
+|----------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| <img src="src/main/resources/docs/pdf.png" alt="PDF" align="center"  style="height:30px;">         | Comprehensive system architecture and API reference | <a href="src/main/resources/docs/Inventory%20Control%20System%20API%20Documentation.pdf" target="_blank">View in PDF</a> |
+| <img src="src/main/resources/docs/postman.png" alt="Postman" align="center"  style="height:24px;"> | Interactive API documentation with examples         | <a href="https://documenter.getpostman.com/view/32179535/2sAYBSkYmW#intro" target="_blank">View in Postman</a>           |
 
 </div>
 
@@ -339,7 +340,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 <div align="center">
-  <img src="src/main/resources/docs/prof.jpeg" style="border-radius:50%; width:100px; height:100px;" alt="Author Avatar">
+  <div style="border-radius:50%; width:100px; height:100px; overflow:hidden; margin:0 auto; border:2px solid Black; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+    <img src="src/main/resources/docs/prof.jpeg" style="width:100%; height:100%; object-fit:cover;" alt="Author Avatar">
+  </div>
 
 ### Suman Bisunkhe
 Java Developer
@@ -347,6 +350,8 @@ Java Developer
 [![GitHub](https://img.shields.io/badge/GitHub-sumanbisunkhe-black?style=flat&logo=github)](https://github.com/sumanbisunkhe)
 [![Email](https://img.shields.io/badge/Email-sumanbisunkhe304%40gmail.com-red?style=flat&logo=gmail)](mailto:sumanbisunkhe304@gmail.com)
 </div>
+
+
 
 ## 📄 License
 
