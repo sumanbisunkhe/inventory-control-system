@@ -340,9 +340,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 <div align="center">
-  <div style="border-radius:50%; width:100px; height:100px; overflow:hidden; margin:0 auto; border:2px solid Black; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
-    <img src="src/main/resources/docs/prof.jpeg" style="width:100%; height:100%; object-fit:cover;" alt="Author Avatar">
-  </div>
+  <img src="src/main/resources/docs/prof.jpeg" style="width:100px; height:100px;border-radius:50%; " alt="Author Avatar">
 
 ### Suman Bisunkhe
 Java Developer
@@ -350,8 +348,6 @@ Java Developer
 [![GitHub](https://img.shields.io/badge/GitHub-sumanbisunkhe-black?style=flat&logo=github)](https://github.com/sumanbisunkhe)
 [![Email](https://img.shields.io/badge/Email-sumanbisunkhe304%40gmail.com-red?style=flat&logo=gmail)](mailto:sumanbisunkhe304@gmail.com)
 </div>
-
-
 
 ## 📄 License
 
